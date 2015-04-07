@@ -1,0 +1,9 @@
+{
+  "name": "gsprite",
+  "version": "0.0.1",
+  "author": "sihan",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-css-sprite": "~0.2.1"
+  }
+}
